@@ -205,7 +205,7 @@
     (property "Value" "Pico W" (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 90)
+    (property "Footprint" "Pi Pico:RPi_PicoW_SMD_TH" (at 0 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
